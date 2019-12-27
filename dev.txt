@@ -6,3 +6,7 @@ test2
 
 
 test3
+
+dev add text 1
+
+dev add text 2
